@@ -1,0 +1,18 @@
+#add-link-form-container{
+	width:28%;
+	float:left;
+}
+
+#links-table-container{
+	width:70%;
+	float:right;
+}
+
+.manage-column.column-status {
+    width: 50px;
+}
+
+.loading-img {
+	display: none;
+    padding: 4px;
+}
